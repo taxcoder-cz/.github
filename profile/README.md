@@ -1,1 +1,2 @@
-# .github
+**Welcome to taxcoder.cz**
+[Taxcoder.cz](https://taxcoder.cz/) is a  marketplace that connects tax and accounting specialists with individuals and businesses, particularly expats and those unfamiliar with Czech tax laws. It helps them manage Czech tax and accounting requirements by offering services such as finding tax experts, tax management, document storage, invoice management, and financial tracking.
